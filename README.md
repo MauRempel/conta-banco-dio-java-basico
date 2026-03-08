@@ -1,5 +1,3 @@
-Sim. Abaixo está tudo já unificado em um único arquivo README.md, pronto para você copiar e colar diretamente no GitHub.
-
 # 💻 Conta Terminal - Desafio Java Básico (DIO)
 
 Este projeto foi desenvolvido como parte do **desafio da trilha de Java Básico da DIO (Digital Innovation One)**.
